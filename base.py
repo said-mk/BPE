@@ -54,7 +54,7 @@ class Tokenizer:
         self.pattern = "" 
         self.special_tokens = {} # {token: idx, ...} e.g. {'': 100257}
 
-    def train(self, text, vocab_size, merges):
+    def train(self, text, vocab_size, verbose=False):
         # abstract training method
         raise NotImplementedError
     
