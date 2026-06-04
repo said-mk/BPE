@@ -39,7 +39,7 @@ def replace_control_characters(s:str):
 def render_token(token:bytes):
     # decode a token and sanitize control characters
 
-    s = token.decode("utf-8", error ="replace")
+    s = token.decode("utf-8", errors ="replace")
     s = replace_control_characters(s)
     return s
 
@@ -49,31 +49,31 @@ class Tokenizer:
     def __init__(self):
         # initialize merges, vocab, pattern, and special tokens
 
-        self.merges = merges # {(idx0, idx1): idx, ...}
+        self.merges = {} # {(idx0, idx1): idx, ...}
         self.vocab  = self._build_vocab() # {idx: token, ...}
         self.pattern = "" 
         self.special_tokens = {} # {token: idx, ...} e.g. {'': 100257}
 
     def train(self, text, vocab_size, merges):
         # abstract training method
-        return NotImplementedError
+        raise NotImplementedError
     
     def encode(self, text):
         # abstract encode method
-        return NotImplementedError
+        raise NotImplementedError
     
     def decode(self, ids):
         # abstract decode method
-        return NotImplementedError
-    
-    
+        raise NotImplementedError
+
+
     def _build_vocab(self):
         # build full byte-pair vocab from base bytes and merges
         vocab = {idx:bytes([idx]) for idx in range(256)}
         for (a0, a1), idx in self.merges.items():
             vocab[idx] = vocab[a0] + vocab[a1]
         for special, idx in self.special_tokens.items():
-            vocab[idx]= special
+            vocab[idx]= special.encode("utf-8", errors="replace")
         return vocab
     
     def save(self, file_prefix):
@@ -83,16 +83,13 @@ class Tokenizer:
         - model file is the critical one, intended for load()
         - vocab file is just a pretty printed version for human inspection only
         """
-        # save model merges and vocabulary to files
         model_file = file_prefix +".model"
-        
         with open(model_file, "w") as f:
             f.write("Byte pair encoding model file V1\n")
             f.write(f"{self.pattern}\n")
             f.write (f"{len(self.special_tokens)}\n")
             for special, idx in self.special_tokens.items():
                 f.write(f"{special} {idx}\n")
-
             for idx0, idx1 in self.merges:
                 f.write(f"{idx0} {idx1}\n")
 
@@ -101,11 +98,10 @@ class Tokenizer:
         with open(vocab_file, "w", encoding="utf-8") as f:
             for  idx, token in self.vocab.items():
                 s = render_token(token)
-
                 if idx in inverted_merges:
-                    s0, s1 = self.merges[idx]
-                    s0 = render_token(self.vocab[s0])
-                    s1 = render_token(self.vocab[s1])
+                    idx0, idx1 = inverted_merges[idx]
+                    s0 = render_token(self.vocab[idx0])
+                    s1 = render_token(self.vocab[idx1])
                     f.write(f"[{s0}  {s1}] -> [{s}] {idx}\n")
                 else:
                     f.write(f"[{s}] {idx}\n")
