@@ -4,7 +4,7 @@ class MinBPE(Tokenizer):
      # a tiny BPE implementation for demonstration and learning
      # we start from raw bytes and iteratively absorb the most common pairs
      def __init__(self):
-         super().__init__()
+          super().__init__()
 
      def train(self, text, vocab_size, verbose=False):
           assert vocab_size >= 256, "vocabulary size must be >= 256"

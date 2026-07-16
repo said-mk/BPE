@@ -37,7 +37,7 @@ def replace_control_characters(s:str):
     return "".join(chars)
 
 def render_token(token:bytes):
-    # decode a token and sanitize control characters
+    # decode a token and clean control characters
 
     s = token.decode("utf-8", errors ="replace")
     s = replace_control_characters(s)
