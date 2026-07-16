@@ -5,8 +5,7 @@ import pytest
 import tiktoken
 import os
 
-from minbpe import BasicTokenizer, RegexTokenizer, GPT4Tokenizer
-
+from . import minBPE, BPETokenizer, GPT4Tokenizer
 # -----------------------------------------------------------------------------
 # common test data
 
@@ -15,19 +14,19 @@ test_strings = [
     "", # empty string
     "?", # single character
     "hello world!!!? (안녕하세요!) lol123 😉", # fun small string
-    "FILE:taylorswift.txt", # FILE: is handled as a special string in unpack()
+    "FILE:pg_essays.txt", # FILE: is handled as a special string in unpack()
 ]
 def unpack(text):
     # we do this because `pytest -v .` prints the arguments to console, and we don't
     # want to print the entire contents of the file, it creates a mess. So here we go.
     if text.startswith("FILE:"):
         dirname = os.path.dirname(os.path.abspath(__file__))
-        taylorswift_file = os.path.join(dirname, text[5:])
-        contents = open(taylorswift_file, "r", encoding="utf-8").read()
+        pg_essays_file = os.path.join(dirname, text[5:])
+        contents = open(pg_essays_file, "r", encoding="utf-8").read()
         return contents
     else:
         return text
-
+    
 specials_string = """
 <|endoftext|>Hello world this is one document
 <|endoftext|>And this is another document
@@ -52,7 +51,7 @@ The ancestors of llamas are thought to have originated from the Great Plains of 
 # tests
 
 # test encode/decode identity for a few different strings
-@pytest.mark.parametrize("tokenizer_factory", [BasicTokenizer, RegexTokenizer, GPT4Tokenizer])
+@pytest.mark.parametrize("tokenizer_factory", [minBPE, BPETokenizer, GPT4Tokenizer])
 @pytest.mark.parametrize("text", test_strings)
 def test_encode_decode_identity(tokenizer_factory, text):
     text = unpack(text)
@@ -80,7 +79,7 @@ def test_gpt4_tiktoken_equality_special_tokens():
     assert gpt4_tokenizer_ids == tiktoken_ids
 
 # reference test to add more tests in the future
-@pytest.mark.parametrize("tokenizer_factory", [BasicTokenizer, RegexTokenizer])
+@pytest.mark.parametrize("tokenizer_factory", [minBPE, BPETokenizer])
 def test_wikipedia_example(tokenizer_factory):
     """
     Quick unit test, following along the Wikipedia example:
@@ -114,7 +113,7 @@ def test_save_load(special_tokens):
     # take a bit more complex piece of text and train the tokenizer, chosen at random
     text = llama_text
     # create a Tokenizer and do 64 merges
-    tokenizer = RegexTokenizer()
+    tokenizer = BPETokenizer()
     tokenizer.train(text, 256 + 64)
     tokenizer.register_special_tokens(special_tokens)
     # verify that decode(encode(x)) == x
@@ -124,7 +123,7 @@ def test_save_load(special_tokens):
     # save the tokenizer (TODO use a proper temporary directory)
     tokenizer.save("test_tokenizer_tmp")
     # re-load the tokenizer
-    tokenizer = RegexTokenizer()
+    tokenizer = BPETokenizer()
     tokenizer.load("test_tokenizer_tmp.model")
     # verify that decode(encode(x)) == x
     assert tokenizer.decode(ids) == text

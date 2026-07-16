@@ -1,6 +1,6 @@
 
 
-from .Bpe_tokenizer import BpeTokenizer
+from .bpe_tokenizer import BpeTokenizer
 import tiktoken
 
 def bpe(mergeable_ranks:dict, token:bytes, max_token:int=None):
