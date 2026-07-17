@@ -1,6 +1,6 @@
 from .base import Tokenizer, get_pairs, merge_pairs
 
-class MinBPE(Tokenizer):
+class minBPE(Tokenizer):
      # a tiny BPE implementation for demonstration and learning
      # we start from raw bytes and iteratively absorb the most common pairs
      def __init__(self):
@@ -20,6 +20,8 @@ class MinBPE(Tokenizer):
           for i in range(num_merges):
                # compute all adjacent pairs and pick the most frequent
                stats = get_pairs(ids)
+               if not stats:
+                    break
                pair = max(stats, key= stats.get)
                idx = 256 + i
 

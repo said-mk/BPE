@@ -50,9 +50,9 @@ class Tokenizer:
         # initialize merges, vocab, pattern, and special tokens
 
         self.merges = {} # {(idx0, idx1): idx, ...}
-        self.vocab  = self._build_vocab() # {idx: token, ...}
         self.pattern = "" 
-        self.special_tokens = {} # {token: idx, ...} e.g. {'': 100257}
+        self.special_tokens = {} # {token: idx, ...} e.g. {'<|endoftext|>': 100257}
+        self.vocab  = self._build_vocab() # {idx: token, ...}
 
     def train(self, text, vocab_size, verbose=False):
         # abstract training method
@@ -66,7 +66,6 @@ class Tokenizer:
         # abstract decode method
         raise NotImplementedError
 
-
     def _build_vocab(self):
         # build full byte-pair vocab from base bytes and merges
         vocab = {idx:bytes([idx]) for idx in range(256)}
@@ -74,6 +73,9 @@ class Tokenizer:
             vocab[idx] = vocab[a0] + vocab[a1]
         for special, idx in self.special_tokens.items():
             vocab[idx]= special.encode("utf-8", errors="replace")
+        if hasattr(self, 'inverse_special_tokens'):
+            self.inverse_special_tokens.clear()
+            self.inverse_special_tokens.update({v: k for k, v in self.special_tokens.items()})
         return vocab
     
     def save(self, file_prefix):
@@ -84,7 +86,7 @@ class Tokenizer:
         - vocab file is just a pretty printed version for human inspection only
         """
         model_file = file_prefix +".model"
-        with open(model_file, "w") as f:
+        with open(model_file, "w", encoding="utf-8") as f:
             f.write("Byte pair encoding model file V1\n")
             f.write(f"{self.pattern}\n")
             f.write (f"{len(self.special_tokens)}\n")

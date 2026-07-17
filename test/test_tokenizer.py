@@ -5,7 +5,7 @@ import pytest
 import tiktoken
 import os
 
-from . import minBPE, BPETokenizer, GPT4Tokenizer
+from bpe import minBPE, BPETokenizer, GPT4Tokenizer
 # -----------------------------------------------------------------------------
 # common test data
 
@@ -56,7 +56,10 @@ The ancestors of llamas are thought to have originated from the Great Plains of 
 def test_encode_decode_identity(tokenizer_factory, text):
     text = unpack(text)
     tokenizer = tokenizer_factory()
-    ids = tokenizer.encode(text)
+    kwargs = {}
+    if tokenizer_factory in [BPETokenizer, GPT4Tokenizer]:
+        kwargs["allowed_special"] = "all"
+    ids = tokenizer.encode(text, **kwargs)
     decoded = tokenizer.decode(ids)
     assert text == decoded
 
@@ -66,8 +69,8 @@ def test_gpt4_tiktoken_equality(text):
     text = unpack(text)
     tokenizer = GPT4Tokenizer()
     enc = tiktoken.get_encoding("cl100k_base")
-    tiktoken_ids = enc.encode(text)
-    gpt4_tokenizer_ids = tokenizer.encode(text)
+    tiktoken_ids = enc.encode(text, allowed_special="all")
+    gpt4_tokenizer_ids = tokenizer.encode(text, allowed_special="all")
     assert gpt4_tokenizer_ids == tiktoken_ids
 
 # test the handling of special tokens

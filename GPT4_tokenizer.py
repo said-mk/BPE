@@ -1,6 +1,6 @@
 
 
-from .bpe_tokenizer import BpeTokenizer
+from .bpe_tokenizer import BPETokenizer
 import tiktoken
 
 def bpe(mergeable_ranks:dict, token:bytes, max_token:int=None):
@@ -14,7 +14,7 @@ def bpe(mergeable_ranks:dict, token:bytes, max_token:int=None):
         min_idx = None
         min_rank = None
 
-        for i, pair in enumerate(parts[:-1], parts[1:]):
+        for i, pair in enumerate(zip(parts[:-1], parts[1:])):
             rank = mergeable_ranks.get(pair[0] + pair[1])
             if rank is not None and (min_rank is None or rank < min_rank):
                 min_idx = i
@@ -22,7 +22,7 @@ def bpe(mergeable_ranks:dict, token:bytes, max_token:int=None):
         if min_rank is None or (max_token is not None and min_rank >= max_token):
             break
         assert min_idx is not None
-        parts = parts[:min_idx] + parts[parts[min_idx] + parts[min_idx+1]] + parts[min_idx + 2:]
+        parts = parts[:min_idx] + [parts[min_idx] + parts[min_idx+1]] + parts[min_idx + 2:]
     return parts
 
 def get_gpt4_merges(mergeable_ranks):
@@ -34,14 +34,14 @@ def get_gpt4_merges(mergeable_ranks):
     merges = {}
 
     for token, rank in mergeable_ranks.items():
-        if len(token) == 1
+        if len(token) == 1:
             continue
-    pair = bpe(mergeable_ranks, token, max_token=rank)
-    assert len(pair) == 2
-    
-    ix0 = mergeable_ranks[pair[0]]
-    ix1 = mergeable_ranks[pair[1]]
-    merges[(ix0,ix1)] = rank
+        pair = bpe(mergeable_ranks, token, max_token=rank)
+        assert len(pair) == 2
+        
+        ix0 = mergeable_ranks[pair[0]]
+        ix1 = mergeable_ranks[pair[1]]
+        merges[(ix0, ix1)] = rank
 
     return merges
 
@@ -54,18 +54,18 @@ GPT4_SPECIAL_TOKENS = {
     '<|endofprompt|>': 100276
 }
 
-class GPT4Tokenizer(BpeTokenizer):
+class GPT4Tokenizer(BPETokenizer):
     def __init__(self):
-        super().__init__(pattern=GPT4_SPECIAL_TOKENS)
-        self.register_special_tokens = GPT4_SPECIAL_TOKENS
+        super().__init__(pattern=GPT4_SPLIT_PATTERN)
+        self.register_special_tokens(GPT4_SPECIAL_TOKENS)
         # get the official GPT4 Tokenizer and it merges
-        encodings = tiktoken.get_encoding(""cl100k_base"")
+        encodings = tiktoken.get_encoding("cl100k_base")
         mergeable_ranks = encodings._mergeable_ranks
         # recovered merges from the GPT4
         self.merges = get_gpt4_merges(mergeable_ranks)
         # Build the GPT4 vocabulary
         vocab = {idx: bytes([idx]) for idx in range(256)}
-        for (p0, p1), idx in self.merges.items:
+        for (p0, p1), idx in self.merges.items():
             vocab[idx] = vocab[p0] + vocab[p1]
         self.vocab = vocab
         # for some reason, the tokens corresponding to individual bytes
@@ -74,33 +74,33 @@ class GPT4Tokenizer(BpeTokenizer):
         self.byte_shuffle = {i: mergeable_ranks[bytes([i])] for i in range(256)}
         self.inverse_byte_shuffle = {v: k for k, v in self.byte_shuffle.items()}
 
-def _encode_chunk(self, text_bytes:bytes):
-    text_bytes = bytes([self.byte_shuffle[b] for b in text_bytes])
-    ids = super()._encode_chunk(text_bytes)
-    return ids
+    def _encode_chunk(self, text_bytes:bytes):
+        text_bytes = bytes([self.byte_shuffle[b] for b in text_bytes])
+        ids = super()._encode_chunk(text_bytes)
+        return ids
 
-def decode(self, ids):
-    text_bytes = "".join(self.vocab[id] for id in ids)
-    text_bytes = bytes([self.inverse_byte_shuffle[b]] for b in text_bytes)
-    text = text_bytes.decode("utf-8", errors="replace")
-    return text
+    def decode(self, ids):
+        text_bytes = b"".join(self.vocab[id] for id in ids)
+        text_bytes = bytes([self.inverse_byte_shuffle[b] for b in text_bytes])
+        text = text_bytes.decode("utf-8", errors="replace")
+        return text
 
-# this is a pretrained tokenizer, it is not intended to be trained
-def train(self, text, vocab_size, verbose=False):
-    raise NotImplementedError("GPT4Tokenizer is a  pretrained tokenizer")
+    # this is a pretrained tokenizer, it is not intended to be trained
+    def train(self, text, vocab_size, verbose=False):
+        raise NotImplementedError("GPT4Tokenizer is a  pretrained tokenizer")
 
-# save/load would require some thought.
-# we'd have to change save/load of base to add support for byte_shuffle...
-# alternatively, we could move byte_shuffle to base class, but that would
-# mean that we're making ugly our beautiful Tokenizer just to support
-# the GPT-4 tokenizer and its weird historical quirks around byte_shuffle.
-def save(self, file_prefix):
-    raise NotImplementedError("GPT4Tokenizer cannot be saved. USE: .save_vocab() method")
+    # save/load would require some thought.
+    # we'd have to change save/load of base to add support for byte_shuffle...
+    # alternatively, we could move byte_shuffle to base class, but that would
+    # mean that we're making ugly our beautiful Tokenizer just to support
+    # the GPT-4 tokenizer and its weird historical quirks around byte_shuffle.
+    def save(self, file_prefix):
+        raise NotImplementedError("GPT4Tokenizer cannot be saved. USE: .save_vocab() method")
 
-def load(self, model_file):
-    raise NotImplementedError("GPT4Tokenizer cannot be loaded.")
+    def load(self, model_file):
+        raise NotImplementedError("GPT4Tokenizer cannot be loaded.")
 
-def save_vocab(self, vocab_file):
+    def save_vocab(self, vocab_file):
         # just for visualization purposes let's output the GPT-4 tokens
         # in the exact same format as the base class would.
         # simple run as:
