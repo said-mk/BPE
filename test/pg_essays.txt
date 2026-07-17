@@ -9,7 +9,7 @@ Y Combinator
 .
 © mmxxvi pg
 
-<|endoftext|>
+
 
 How to Do Great Work
 July 2023
@@ -1324,7 +1324,7 @@ Bob Metcalfe, Ben Miller, Robert Morris, Michael Nielsen, Courtenay
 Pipkin, Joris Poort, Mieke Roos, Rajat Suri, Harj Taggar, Garry
 Tan, and my younger son for suggestions and for reading drafts.
 
-<|endoftext|>
+
 
 Having Kids
 December 2019
@@ -1475,7 +1475,7 @@ for reading drafts of this.
 Arabic Translation
 Slovak Translation
 
-<|endoftext|>
+
 
 How to Lose Time and Money
 July 2010
@@ -1544,7 +1544,7 @@ Thanks
 to Sam Altman, Trevor Blackwell, Patrick Collison, Jessica
 Livingston, and Robert Morris for reading drafts of this.
 
-<|endoftext|>
+
 
 How to Earn a Billion Dollars
 June 2026
@@ -1775,7 +1775,7 @@ Jessica Livingston, and
 Garry Tan for reading drafts of this, and to Arwa Elrayess and the
 Oxford Union for hosting me.
 
-<|endoftext|>
+
 
 How to Convert Between Wealth and Income Tax
 May 2026
@@ -1863,7 +1863,7 @@ Thanks
 to Trevor Blackwell, Jessica Livingston,
 Carolynn Levy, Jon Levy, Alex Tabarrok, and Harj Taggar for reading drafts of this.
 
-<|endoftext|>
+
 
 The Brand Age
 March 2026
@@ -2691,7 +2691,7 @@ people at Goldammer, Jessica Livingston, Ben Miller, Robert Morris,
 John Reardon, D'Arcy Rice, Alex Tabarrok, and Garry Tan for reading
 drafts of this.
 
-<|endoftext|>
+
 
 The Shape of the Essay Field
 June 2025
@@ -2779,7 +2779,7 @@ Thanks
 to Jessica Livingston and Michael 
 Nielsen for reading drafts of this.
 
-<|endoftext|>
+
 
 Good Writing
 May 2025
@@ -2986,7 +2986,7 @@ Thanks
 to Jessica Livingston 
 and Courtenay Pipkin for reading drafts of this.
 
-<|endoftext|>
+
 
 What to Do
 March 2025
@@ -3156,7 +3156,7 @@ Thanks
 to Trevor Blackwell, Jessica 
 Livingston, and Robert Morris for reading drafts of this.
 
-<|endoftext|>
+
 
 The Origins of Wokeness
 January 2025
@@ -3972,7 +3972,7 @@ Ben Miller, Daniel Gackle, Robin Hanson, Jessica
 Livingston, Greg Lukianoff, Harj Taggar, Garry Tan, and Tim
 Urban for reading drafts of this.
 
-<|endoftext|>
+
 
 Writes and Write-Nots
 October 2024
@@ -4032,7 +4032,7 @@ Thanks
 to Jessica Livingston, Ben Miller, 
 and Robert Morris for reading drafts of this.
 
-<|endoftext|>
+
 
 When To Do What You Love
 September 2024
@@ -4206,7 +4206,7 @@ Jessica Livingston,
 Robert Morris, Harj Taggar, and Garry Tan for reading drafts of
 this.
 
-<|endoftext|>
+
 
 Founder Mode
 September 2024
@@ -4343,7 +4343,7 @@ Ron Conway, Jessica
 Livingston, Elon Musk, Ryan Petersen, Harj Taggar, and Garry Tan
 for reading drafts of this.
 
-<|endoftext|>
+
 
 The Right Kind of Stubborn
 July 2024
@@ -4575,7 +4575,7 @@ Jessica Livingston, Jackie McDonough,
 Courtenay Pipkin, Harj Taggar, and Garry Tan for reading drafts of
 this.
 
-<|endoftext|>
+
 
 The Reddits
 March 2024
@@ -4685,7 +4685,7 @@ management that was harmless at best, what could it do if Steve
 came back? We now know the answer to that question. Or at least a
 lower bound on the answer. Steve is not out of ideas yet.
 
-<|endoftext|>
+
 
 How to Start Google
 March 2024
@@ -4968,7 +4968,7 @@ students.
 Thanks
 to Jared Friedman, Carolynn Levy, Jessica Livingston, Harj Taggar, and Garry Tan for reading drafts of this.
 
-<|endoftext|>
+
 
 The Best Essay
 March 2024
@@ -5469,7 +5469,7 @@ Jessica Livingston, Robert
 Morris, Courtenay Pipkin, and Harj Taggar for reading drafts of
 this.
 
-<|endoftext|>
+
 
 Superlinear Returns
 October 2023
@@ -5977,7 +5977,7 @@ to Trevor Blackwell, Patrick Collison, Tyler Cowen,
 Jessica Livingston, Harj Taggar, and Garry Tan for reading drafts
 of this.
 
-<|endoftext|>
+
 
 How to Get New Ideas
 January 2023
@@ -5997,7 +5997,7 @@ will seem obvious; it will seem inexplicable that no one has tried
 x or wondered about y. In the best case, exploring such gaps yields
 whole new fractal buds.
 
-<|endoftext|>
+
 
 The Need to Read
 November 2022
@@ -6062,7 +6062,7 @@ Chinese Translation
 Italian Translation
 French Translation
 
-<|endoftext|>
+
 
 What You (Want to)* Want
 November 2022
@@ -6128,7 +6128,7 @@ Jessica Livingston, Robert Morris, and
 Michael Nielsen for reading drafts of this.
 Irish Translation
 
-<|endoftext|>
+
 
 Alien Truth
 October 2022
@@ -6201,7 +6201,7 @@ Thanks
 to Trevor Blackwell, Greg Brockman, 
 Patrick Collison, Robert Morris, and Michael Nielsen for reading drafts of this.
 
-<|endoftext|>
+
 
 What I've Learned from Users
 September 2022
@@ -6459,7 +6459,7 @@ Thanks
 to Trevor Blackwell, Jessica Livingston, 
 Harj Taggar, and Garry Tan for reading drafts of this.
 
-<|endoftext|>
+
 
 Heresy
 April 2022
@@ -6718,7 +6718,7 @@ Christakis, Daniel Gackle, Jonathan Haidt, Claire Lehmann, Jessica
 Livingston, Greg Lukianoff, Robert Morris, and Garry Tan for reading
 drafts of this.
 
-<|endoftext|>
+
 
 Putting Ideas into Words
 February 2022
@@ -6850,7 +6850,7 @@ to Trevor Blackwell, Patrick
 Collison, and Robert Morris for reading drafts of this.
 French Translation
 
-<|endoftext|>
+
 
 Is There Such a Thing as Good Taste?
 November 2021
@@ -6962,7 +6962,7 @@ to the Cambridge Union for inviting me, and to Trevor
 Blackwell, Jessica Livingston, and Robert Morris for reading drafts
 of this.
 
-<|endoftext|>
+
 
 Beyond Smart
 October 2021
@@ -7146,7 +7146,7 @@ to Trevor Blackwell, Patrick Collison, Jessica Livingston,
 Robert Morris, Michael Nielsen, and Lisa Randall for reading drafts
 of this.
 
-<|endoftext|>
+
 
 Weird Languages
 August 2021
@@ -7188,7 +7188,7 @@ to Trevor Blackwell, Patrick Collison, Daniel Gackle, Amjad
 Masad, and Robert Morris for reading drafts of this.
 Japanese Translation
 
-<|endoftext|>
+
 
 How to Work Hard
 June 2021
@@ -7564,7 +7564,7 @@ to Trevor Blackwell, John Carmack, John Collison, Patrick Collison,
 Robert Morris, Geoff Ralston, and Harj Taggar for reading drafts of this.
 Arabic Translation
 
-<|endoftext|>
+
 
 A Project of One's Own
 June 2021
@@ -7836,7 +7836,7 @@ Thanks
 to Trevor Blackwell, Paul Buchheit, Andy Hertzfeld, Jessica
 Livingston, and Peter Norvig for reading drafts of this.
 
-<|endoftext|>
+
 
 Fierce Nerds
 May 2021
@@ -7994,7 +7994,7 @@ to Trevor Blackwell, Steve Blank, Patrick Collison, Jessica
 Livingston, Amjad Masad, and Robert Morris for reading drafts of this.
 Chinese Translation
 
-<|endoftext|>
+
 
 Crazy New Ideas
 May 2021
@@ -8162,7 +8162,7 @@ Thanks
 to Trevor Blackwell, Patrick Collison, Suhail Doshi, Daniel
 Gackle, Jessica Livingston, and Robert Morris for reading drafts of this.
 
-<|endoftext|>
+
 
 An NFT That Saves Lives
 May 2021
@@ -8203,7 +8203,7 @@ takes for the name to be accurate: that's what it costs to save
 2000 lives. But the higher the price of this NFT goes, the more
 lives will be saved. What a sentence to be able to write.
 
-<|endoftext|>
+
 
 The Real Reason to End the Death Penalty
 April 2021
@@ -8297,7 +8297,7 @@ Will Florida Kill an Innocent Man?
 Was Kevin Cooper Framed for Murder?
 Did Texas execute an innocent man?
 
-<|endoftext|>
+
 
 How People Get Rich Now
 April 2021
@@ -8623,7 +8623,7 @@ Thanks
 to Trevor Blackwell, Jessica Livingston, Bob Lesko, Robert Morris, 
 Russ Roberts, and Alex Tabarrok for reading drafts of this, and to Jon Erlichman for growth data.
 
-<|endoftext|>
+
 
 Write Simply
 March 2021
@@ -8681,7 +8681,7 @@ it. I write the first draft fast, then spend days editing it, trying
 to get everything just right. Much of this editing is cutting, and
 that makes simple writing even simpler.
 
-<|endoftext|>
+
 
 Donate Unrestricted
 March 2021
@@ -8745,7 +8745,7 @@ Thanks
 to Chase Adam, Ingrid Bassett, Trevor Blackwell, and Edith
 Elliot for reading drafts of this.
 
-<|endoftext|>
+
 
 What I Worked On
 February 2021
@@ -10133,7 +10133,7 @@ to Trevor Blackwell, John Collison, Patrick Collison, Daniel
 Gackle, Ralph Hazell, Jessica Livingston, Robert Morris, and Harj
 Taggar for reading drafts of this.
 
-<|endoftext|>
+
 
 Earnestness
 December 2020
@@ -10353,7 +10353,7 @@ to Trevor Blackwell, Patrick Collison, Suhail Doshi, Jessica
 Livingston, Mattias Ljungman, Harj Taggar, and Kyle Vogt for reading
 drafts of this.
 
-<|endoftext|>
+
 
 Billionaires Build
 December 2020
@@ -10708,7 +10708,7 @@ Thanks
 to Trevor Blackwell, Jessica Livingston, Robert Morris, Geoff Ralston, and
 Harj Taggar for reading drafts of this.
 
-<|endoftext|>
+
 
 The Airbnbs
 December 2020
@@ -10819,7 +10819,7 @@ and giving the last three weeks' numbers.
 I responded.
 Brian's reply was seven words: "We are not going to slow down."
 
-<|endoftext|>
+
 
 How to Think for Yourself
 November 2020
@@ -11248,7 +11248,7 @@ Livingston, Robert Morris, Harj Taggar, and Peter Thiel for reading
 drafts of this.
 Italian Translation
 
-<|endoftext|>
+
 
 Early Work
 October 2020
@@ -11553,7 +11553,7 @@ to Trevor Blackwell, John Carmack, Patrick Collison, Jessica
 Livingston, Michael Nielsen, and Lisa Randall for reading drafts
 of this.
 
-<|endoftext|>
+
 
 Modeling a Wealth Tax
 August 2020
@@ -11639,7 +11639,7 @@ In practice, eventually some of this 8% would come in the form of
 dividends, which are taxed as income at issue, so this model actually
 represents the most optimistic case for the founder.
 
-<|endoftext|>
+
 
 The Four Quadrants of Conformism
 July 2020
@@ -11871,7 +11871,7 @@ German Translation
 Korean Translation
 Serbian Translation
 
-<|endoftext|>
+
 
 Orthodox Privilege
 July 2020
@@ -11947,7 +11947,7 @@ to Sam Altman, Trevor Blackwell, Patrick Collison, Antonio Garcia-Martinez,
 Jessica Livingston, Robert Morris, Michael Nielsen, Geoff Ralston, Max Roser, and
 Harj Taggar for reading drafts of this.
 
-<|endoftext|>
+
 
 Coronavirus and Credibility
 April 2020
@@ -11981,7 +11981,7 @@ Finnish Translation
 German Translation
 French Translation
 
-<|endoftext|>
+
 
 How to Write Usefully
 February 2020
@@ -12273,7 +12273,7 @@ Robert Morris for reading drafts of this.
 Spanish Translation
 Japanese Translation
 
-<|endoftext|>
+
 
 Being a Noob
 January 2020
@@ -12319,7 +12319,7 @@ Chinese Translation
 Serbian Translation
 French Translation
 
-<|endoftext|>
+
 
 Haters
 January 2020
@@ -12458,7 +12458,7 @@ Japanese Translation
 Arabic Translation
 Polish Translation
 
-<|endoftext|>
+
 
 The Two Kinds of Moderate
 December 2019
@@ -12531,7 +12531,7 @@ to Austen Allred, Trevor Blackwell, Patrick Collison, Jessica Livingston,
 Amjad Masad, Ryan Petersen, and Harj Taggar for reading drafts of this.
 Japanese Translation
 
-<|endoftext|>
+
 
 Fashionable Problems
 December 2019
@@ -12561,7 +12561,7 @@ Japanese Translation
 Arabic Translation
 French Translation
 
-<|endoftext|>
+
 
 The Lesson to Unlearn
 December 2019
@@ -12947,7 +12947,7 @@ Russian Translation
 Arabic Translation
 Swedish Translation
 
-<|endoftext|>
+
 
 Novelty and Heresy
 November 2019
@@ -12983,7 +12983,7 @@ Japanese Translation
 Russian Translation
 Simplified Chinese Translation
 
-<|endoftext|>
+
 
 The Bus Ticket Theory of Genius
 November 2019
@@ -13253,7 +13253,7 @@ Russian Translation
 Korean Translation
 Armenian Translation
 
-<|endoftext|>
+
 
 General and Surprising
 September 2017
@@ -13310,7 +13310,7 @@ to Sam Altman, Patrick Collison, and Jessica
 Livingston for reading drafts of this.
 Japanese Translation
 
-<|endoftext|>
+
 
 Charisma / Power
 January 2017
@@ -13326,7 +13326,7 @@ to understand that being a magnet for criticism is sometimes a sign
 not that someone is the wrong person for a job, but that they're
 the right one.
 
-<|endoftext|>
+
 
 The Risk of Discovery
 January 2017
@@ -13360,7 +13360,7 @@ Newton made three bets. One of them worked. But
 they were all risky.
 Japanese Translation
 
-<|endoftext|>
+
 
 How to Make Pittsburgh a Startup Hub
 April 2016
@@ -13616,7 +13616,7 @@ to Charlie Cheever and Jessica Livingston for reading
 drafts of this, and to Meg Cheever for organizing Opt412 and inviting
 me to speak.
 
-<|endoftext|>
+
 
 Life is Short
 January 2016
@@ -13794,7 +13794,7 @@ Korean Translation
 Japanese Translation
 Chinese Translation
 
-<|endoftext|>
+
 
 Economic Inequality
 January 2016
@@ -14223,7 +14223,7 @@ A Reply to Ezra Klein
 A Reply to Russell Okung
 French Translation
 
-<|endoftext|>
+
 
 The Refragmentation
 January 2016
@@ -15123,7 +15123,7 @@ Tax
 Related:
 Too Many Elite American Men Are Obsessed With Work and Wealth
 
-<|endoftext|>
+
 
 Jessica Livingston
 November 2015
@@ -15336,7 +15336,7 @@ Levy, Jon Levy, Kirsty Nathoo, Robert Morris, Geoff Ralston, and
 Harj Taggar for reading drafts of this.  And yes, Jessica Livingston,
 who made me cut surprisingly little.
 
-<|endoftext|>
+
 
 A Way to Detect Bias
 October 2015
@@ -15415,7 +15415,7 @@ drafts of this.
 Arabic Translation
 Swedish Translation
 
-<|endoftext|>
+
 
 Write Like You Talk
 October 2015
@@ -15493,7 +15493,7 @@ to Patrick Collison and Jessica Livingston for reading drafts of this.
 Japanese Translation
 Arabic Translation
 
-<|endoftext|>
+
 
 Default Alive or Default Dead?
 October 2015
@@ -15670,7 +15670,7 @@ Thanks
 to Sam Altman, Paul Buchheit, Joe Gebbia, Jessica Livingston,
 and Geoff Ralston for reading drafts of this.
 
-<|endoftext|>
+
 
 Why It's Safe for Founders to Be Nice
 August 2015
@@ -15775,7 +15775,7 @@ to Sam Altman, Harj Taggar, Jessica Livingston, and
 Geoff Ralston for reading drafts of this, and to Randall Bennett
 for being such a nice guy.
 
-<|endoftext|>
+
 
 Change Your Name
 August 2015
@@ -15875,7 +15875,7 @@ Thanks
 to Sam Altman, Jessica Livingston, and Geoff Ralston
 for reading drafts of this.
 
-<|endoftext|>
+
 
 What Microsoft Is this the Altair Basic of?
 February 2015
@@ -15917,7 +15917,7 @@ never predict how big a Microsoft is going to be, so in cases like
 that I encourage founders to follow whichever path is most immediately
 exciting to them.  Their instincts got them this far. Why stop now?
 
-<|endoftext|>
+
 
 The Ronco Principle
 January 2015
@@ -15999,7 +15999,7 @@ to Sam Altman and Jessica Livingston for reading drafts of
 this.
 Japanese Translation
 
-<|endoftext|>
+
 
 What Doesn't Seem Like Work?
 January 2015
@@ -16054,7 +16054,7 @@ Robert Morris, and my father for reading drafts of this.
 Robert Morris: All About Programming
 French Translation
 
-<|endoftext|>
+
 
 Don't Talk to Corp Dev
 January 2015
@@ -16202,7 +16202,7 @@ Thanks
 to Marc Andreessen, Jessica Livingston, Geoff
 Ralston, and Qasar Younis for reading drafts of this.
 
-<|endoftext|>
+
 
 Let the Other 95% of Great Programmers In
 December 2014
@@ -16316,7 +16316,7 @@ Livingston, Geoff Ralston, Fred Wilson, and Qasar Younis for reading
 drafts of this.
 Spanish Translation
 
-<|endoftext|>
+
 
 How to Be an Expert in a Changing World
 December 2014
@@ -16456,7 +16456,7 @@ for reading drafts of this.
 Spanish Translation
 Arabic Translation
 
-<|endoftext|>
+
 
 How You Know
 December 2014
@@ -16523,7 +16523,7 @@ to Sam Altman, Jessica Livingston, and Robert Morris for reading
 drafts of this.
 Japanese Translation
 
-<|endoftext|>
+
 
 The Fatal Pinch
 December 2014
@@ -16711,7 +16711,7 @@ to Sam Altman, Paul Buchheit, Jessica Livingston, and
 Geoff Ralston for reading drafts of this.
 Arabic Translation
 
-<|endoftext|>
+
 
 Mean People Fail
 November 2014
@@ -16859,7 +16859,7 @@ Portuguese Translation
 Japanese Translation
 Arabic Translation
 
-<|endoftext|>
+
 
 Before the Startup
 Want to start a startup?
@@ -17379,7 +17379,7 @@ Collison, Jessica Livingston, Robert Morris, Geoff Ralston, and
 Fred Wilson for reading drafts of this.
 Arabic Translation
 
-<|endoftext|>
+
 
 How to Raise Money
 Want to start a startup?
@@ -18576,7 +18576,7 @@ Reeves, Yuri Sagalov, Emmett Shear, Rajat Suri, Garry Tan, and Nick
 Tomarello for reading drafts of this.
 Russian Translation
 
-<|endoftext|>
+
 
 Investor Herd Dynamics
 Want to start a startup?
@@ -18711,7 +18711,7 @@ to Paul Buchheit, Jessica Livingston, Geoff Ralston, and Garry Tan
 for reading drafts of this.
 Russian Translation
 
-<|endoftext|>
+
 
 How to Convince Investors
 Want to start a startup?
@@ -19154,7 +19154,7 @@ Livingston, Greg Mcadoo, Andrew Mason, Geoff Ralston, Yuri Sagalov,
 Emmett Shear, Rajat Suri, Garry Tan, Albert Wenger, Fred Wilson,
 and Qasar Younis for reading drafts of this.
 
-<|endoftext|>
+
 
 Do Things that Don't Scale
 Want to start a startup?
@@ -19667,7 +19667,7 @@ Arabic Translation
 Italian Translation
 Korean Translation
 
-<|endoftext|>
+
 
 Startup Investing Trends
 June 2013
@@ -20000,7 +20000,7 @@ Patrick Collison, Jessica
 Livingston, Andrew Mason, Geoff Ralston, and Garry Tan for reading
 drafts of this.
 
-<|endoftext|>
+
 
 How to Get Startup Ideas
 Want to start a startup?
@@ -20792,7 +20792,7 @@ Japanese Translation
 Italian Translation
 Spanish Translation
 
-<|endoftext|>
+
 
 The Hardware Renaissance
 Want to start a startup?
@@ -20861,7 +20861,7 @@ to Sam Altman, Trevor Blackwell, David Cann, Sanjay Dastoor,
 Paul Gerhardt, Cameron Robertson, Harj Taggar, and Garry Tan for reading drafts of this.
 A Hardware Renaissance while Software Eats the World?
 
-<|endoftext|>
+
 
 Startup = Growth
 Want to start a startup?
@@ -21485,7 +21485,7 @@ Estonian Translation
 Portuguese Translation
 Italian Translation
 
-<|endoftext|>
+
 
 Black Swan Farming
 Want to start a startup?
@@ -21733,7 +21733,7 @@ to Sam Altman, Paul Buchheit, Patrick Collison, Jessica
 Livingston, Geoff Ralston, and Harj Taggar for reading drafts of
 this.
 
-<|endoftext|>
+
 
 The Top of My Todo List
 April 2012
@@ -21766,7 +21766,7 @@ Don't ignore your dreams; don't work too much; say what you
 which I then put at the top of the file I use as a todo list.
 Japanese Translation
 
-<|endoftext|>
+
 
 Writing and Speaking
 March 2012
@@ -21911,7 +21911,7 @@ Thanks
 to Sam Altman and Robert Morris for reading drafts
 of this.
 
-<|endoftext|>
+
 
 How Y Combinator Started
 March 2012
@@ -22062,7 +22062,7 @@ ideal place to put something like YC.  But even then we barely made
 it.  The first dinner in California, we had to warn all the founders
 not to touch the walls, because the paint was still wet.
 
-<|endoftext|>
+
 
 Defining Property
 March 2012
@@ -22198,7 +22198,7 @@ to Sam Altman and Geoff Ralston for reading drafts
 of this.
 Japanese Translation
 
-<|endoftext|>
+
 
 Frighteningly Ambitious Startup Ideas
 Want to start a startup?
@@ -22591,7 +22591,7 @@ Paul Buchheit, Patrick Collison, Aaron Iba, Jessica
 Livingston, Robert Morris, Harj Taggar and Garry Tan
 for reading drafts of this.
 
-<|endoftext|>
+
 
 A Word to the Resourceful
 Want to start a startup?
@@ -22684,7 +22684,7 @@ to Sam Altman, Patrick Collison, Aaron Iba, Jessica Livingston,
 Robert Morris, Harj Taggar, and Garry Tan for reading drafts of
 this.
 
-<|endoftext|>
+
 
 Schlep Blindness
 Want to start a startup?
@@ -22776,7 +22776,7 @@ to Sam Altman, Paul Buchheit, Patrick Collison,
 Aaron Iba, Jessica Livingston, Emmett Shear, and Harj Taggar
 for reading drafts of this.
 
-<|endoftext|>
+
 
 Snapshot: Viaweb, June 1998
 January 2012
@@ -22903,7 +22903,7 @@ was pretty advanced for the time.  It had a programmable crawler
 that could crawl most of the different stores online and pick out
 the products.
 
-<|endoftext|>
+
 
 Why Startup Hubs Work
 Want to start a startup?
@@ -23124,7 +23124,7 @@ Thanks
 to Sam Altman, Paul Buchheit, Jessica Livingston, and
 Harj Taggar for reading drafts of this.
 
-<|endoftext|>
+
 
 The Patent Pledge
 August 2011
@@ -23204,7 +23204,7 @@ a company has to split hairs that fine about whether a suit would
 violate the patent pledge, it's probably still a dick move.
 The Investment That Didn't Happen
 
-<|endoftext|>
+
 
 Subject: Airbnb
 March 2011
@@ -23409,7 +23409,7 @@ I am not negative on this one, I am interested, but we are still
 in the gathering data phase.
 fred
 
-<|endoftext|>
+
 
 Founder Control
 Want to start a startup?
@@ -23488,7 +23488,7 @@ Buchheit, Brian Chesky, Bill Clerico, Patrick Collison, Adam
 Goldstein, James Lindenbaum, Jessica Livingston, and Fred Wilson
 for reading drafts of this.
 
-<|endoftext|>
+
 
 Tablets
 December 2010
@@ -23550,7 +23550,7 @@ Thanks
 to Sam Altman, Paul Buchheit, Jessica Livingston, and
 Robert Morris for reading drafts of this.
 
-<|endoftext|>
+
 
 What We Look for in Founders
 Want to start a startup?
@@ -23656,7 +23656,7 @@ any unresolved tension between them.
 Thanks
 to Jessica Livingston and Chris Steiner for reading drafts of this.
 
-<|endoftext|>
+
 
 The New Funding Landscape
 Want to start a startup?
@@ -24044,7 +24044,7 @@ Lindenbaum, Reid Hoffman, Jessica Livingston and Harj Taggar
 for reading drafts
 of this.
 
-<|endoftext|>
+
 
 Where to See Silicon Valley
 Want to start a startup?
@@ -24191,7 +24191,7 @@ Thanks
 to Sam Altman, Paul Buchheit, Patrick Collison, and Jessica Livingston
 for reading drafts of this.
 
-<|endoftext|>
+
 
 High Resolution Fundraising
 Want to start a startup?
@@ -24273,7 +24273,7 @@ to Immad Akhund, Sam Altman, John Bautista, Pete Koomen,
 Jessica Livingston, Dan Siroker, Harj Taggar, and
 Fred Wilson for reading drafts of this.
 
-<|endoftext|>
+
 
 What Happened to Yahoo
 Want to start a startup?
@@ -24492,7 +24492,7 @@ to Trevor Blackwell, Jessica Livingston, and
 Geoff Ralston for
 reading drafts of this.
 
-<|endoftext|>
+
 
 The Future of Startup Funding
 Want to start a startup?
@@ -24971,7 +24971,7 @@ Poler, Geoff Ralston, Naval Ravikant, Dan Siroker, Harj Taggar, and
 Fred Wilson
 for reading drafts of this.
 
-<|endoftext|>
+
 
 The Acceleration of Addictiveness
 July 2010
@@ -25136,7 +25136,7 @@ Thanks
 to Sam Altman, Patrick Collison, Jessica Livingston, and
 Robert Morris for reading drafts of this.
 
-<|endoftext|>
+
 
 The Top Idea in Your Mind
 Want to start a startup?
@@ -25285,7 +25285,7 @@ Thanks
 to Sam Altman, Patrick Collison, Jessica Livingston,
 and Robert Morris for reading drafts of this.
 
-<|endoftext|>
+
 
 Organic Startup Ideas
 Want to start a startup?
@@ -25406,7 +25406,7 @@ Thanks
 to Sam Altman, Trevor Blackwell, and Jessica Livingston
 for reading drafts of this.
 
-<|endoftext|>
+
 
 Apple's Mistake
 Want to start a startup?
@@ -25657,7 +25657,7 @@ Patrick Collison, Jason Freedman, John Gruber, Joe Hewitt, Jessica Livingston,
 Robert Morris, Teng Siong Ong, Nikhil Pandit, Savraj Singh, and Jared Tame for reading drafts of this.
 Russian Translation
 
-<|endoftext|>
+
 
 What Startups Are Really Like
 Want to start a startup?
@@ -26250,7 +26250,7 @@ Russian Translation
 Korean Translation
 Hebrew Translation
 
-<|endoftext|>
+
 
 Persuade xor Discover
 September 2009
@@ -26414,7 +26414,7 @@ was mistaken, and that most people don't dislike him for the
 same reason I did when I first met him, but simply because
 he writes about controversial things.
 
-<|endoftext|>
+
 
 Post-Medium Publishing
 September 2009
@@ -26629,7 +26629,7 @@ Thanks
 to Michael Arrington, Trevor Blackwell, Steven Levy, Robert
 Morris, and Geoff Ralston for reading drafts of this.
 
-<|endoftext|>
+
 
 The List of N Things
 September 2009
@@ -26788,7 +26788,7 @@ the impression that math is merely a complicated but pointless
 collection of stuff to be memorized.
 Russian Translation
 
-<|endoftext|>
+
 
 The Anatomy of Determination
 Want to start a startup?
@@ -26979,7 +26979,7 @@ Italian Translation
 Portuguese Translation
 Russian Translation
 
-<|endoftext|>
+
 
 What Kate Saw in Silicon Valley
 August 2009
@@ -27070,7 +27070,7 @@ culture may not merely be different in the way you'd expect any
 subculture to be, but a leading indicator.
 Japanese Translation
 
-<|endoftext|>
+
 
 The Trouble with the Segway
 July 2009
@@ -27117,7 +27117,7 @@ had focus groups aplenty, I'm sure, but they didn't have the people
 yelling insults out of cars.  So they never realized they were
 zooming confidently down a blind alley.
 
-<|endoftext|>
+
 
 Ramen Profitable
 Want to start a startup?
@@ -27337,7 +27337,7 @@ Thanks
 to Jessica Livingston for reading drafts of this.
 Japanese Translation
 
-<|endoftext|>
+
 
 Maker's Schedule, Manager's Schedule
 "...the mere consciousness of an engagement will sometimes worry a whole day."
@@ -27460,7 +27460,7 @@ French Translation
 Korean Translation
 German Translation
 
-<|endoftext|>
+
 
 A Local Revolution?
 April 2009
@@ -27522,7 +27522,7 @@ of Skype.
 Thanks
 to Patrick Collison, Jessica Livingston, and Fred Wilson for reading drafts of this.
 
-<|endoftext|>
+
 
 Why Twitter is a Big Deal
 April 2009
@@ -27545,7 +27545,7 @@ previous protocols.  One forgets it's owned by a
 private company.  That must have made it easier for
 Twitter to spread.
 
-<|endoftext|>
+
 
 The Founder Visa
 April 2009
@@ -27567,7 +27567,7 @@ Related:
 The United States of Entrepreneurs
 About Half of VC-Backed Company Founders are Immigrants
 
-<|endoftext|>
+
 
 Five Founders
 April 2009
@@ -27655,7 +27655,7 @@ startup investing does not consist of trying to pick winners the
 way you might in a horse race.  But there are a few people with
 such force of will that they're going to get whatever they want.
 
-<|endoftext|>
+
 
 Relentlessly Resourceful
 Want to start a startup?
@@ -27782,7 +27782,7 @@ Thanks
 to Trevor Blackwell and Jessica Livingston for reading drafts
 of this.
 
-<|endoftext|>
+
 
 How to Be an Angel Investor
 March 2009
@@ -28238,7 +28238,7 @@ Robert Morris, and Fred Wilson for reading drafts of this.
 Comment
 on this essay.
 
-<|endoftext|>
+
 
 Why TV Lost
 March 2009
@@ -28423,7 +28423,7 @@ to Sam Altman, Trevor Blackwell, Nancy Cook, Michael Seibel,
 Emmett Shear, and Fred Wilson for reading drafts of this.
 Japanese Translation
 
-<|endoftext|>
+
 
 Can You Buy a Silicon Valley?  Maybe.
 February 2009
@@ -28650,7 +28650,7 @@ Thanks
 to Trevor Blackwell, Jessica Livingston, Robert
 Morris, and Fred Wilson for reading drafts of this.
 
-<|endoftext|>
+
 
 What I've Learned from Hacker News
 February 2009
@@ -28991,7 +28991,7 @@ this.
 Comment
 on this essay.
 
-<|endoftext|>
+
 
 Startups in 13 Sentences
 Want to start a startup?
@@ -29173,7 +29173,7 @@ Bulgarian Translation
 Japanese Translation
 Persian Translation
 
-<|endoftext|>
+
 
 Keep Your Identity Small
 February 2009
@@ -29284,7 +29284,7 @@ Russian Translation
 Portuguese Translation
 Romanian Translation
 
-<|endoftext|>
+
 
 After Credentials
 December 2008
@@ -29563,7 +29563,7 @@ Thanks
 to Trevor Blackwell, Sarah Harlin, Jessica Livingston, and David
 Sloo for reading drafts of this.
 
-<|endoftext|>
+
 
 Could VC be a Casualty of the Recession?
 December 2008
@@ -29703,7 +29703,7 @@ Livingston, Robert Morris, and Fred Wilson for reading drafts of
 this.
 Russian Translation
 
-<|endoftext|>
+
 
 The High-Res Society
 December 2008
@@ -29891,7 +29891,7 @@ Thanks
 to Trevor Blackwell, Paul Buchheit, Jessica Livingston,
 and Robert Morris for reading drafts of this.
 
-<|endoftext|>
+
 
 The Other Half of "Artists Ship"
 November 2008
@@ -30027,7 +30027,7 @@ Steve Jobs's famous maxim "artists ship" works both ways.  Artists
 aren't merely capable of shipping.  They insist on it.  So if you
 don't let people ship, you won't have any artists.
 
-<|endoftext|>
+
 
 Why to Start a Startup in a Bad Economy
 Want to start a startup?
@@ -30142,7 +30142,7 @@ Russian Translation
 Chinese Translation
 Japanese Translation
 
-<|endoftext|>
+
 
 A Fundraising Survival Guide
 Want to start a startup?
@@ -30674,7 +30674,7 @@ to Trevor Blackwell, David Hornik, Jessica Livingston,
 Robert Morris, and Fred Wilson for reading drafts of this.
 Russian Translation
 
-<|endoftext|>
+
 
 The Pooled-Risk Company Management Company
 July 2008
@@ -30808,7 +30808,7 @@ to Trevor Blackwell, Jessica Livingston, Michael
 Mandel, Robert Morris, and Fred Wilson for reading drafts of this.
 Russian Translation
 
-<|endoftext|>
+
 
 Cities and Ambition
 May 2008
@@ -31189,7 +31189,7 @@ Portuguese Translation
 Chinese Translation
 Korean Translation
 
-<|endoftext|>
+
 
 Disconnecting Distraction
 Note: The strategy described at the end of this essay didn't work.
@@ -31313,7 +31313,7 @@ Catalan Translation
 Russian Translation
 Spanish Translation
 
-<|endoftext|>
+
 
 Lies We Tell Kids
 May 2008
@@ -31881,7 +31881,7 @@ German Translation
 French Translation
 Russian Translation
 
-<|endoftext|>
+
 
 Be Good
 April 2008
@@ -32202,7 +32202,7 @@ and Robert Morris for reading drafts of this.
 Russian Translation
 German Translation
 
-<|endoftext|>
+
 
 Why There Aren't More Googles
 Want to start a startup?
@@ -32351,7 +32351,7 @@ to Sam Altman, Paul Buchheit, David Hornik, Jessica
 Livingston, Robert Morris, and Fred Wilson for reading drafts of this.
 Russian Translation
 
-<|endoftext|>
+
 
 Some Heroes
 April 2008
@@ -32640,7 +32640,7 @@ Thanks
 to Trevor Blackwell, Jessica Livingston, and Jackie McDonough for reading drafts of this.
 Japanese Translation
 
-<|endoftext|>
+
 
 How to Disagree
 March 2008
@@ -32821,7 +32821,7 @@ Finnish Translation
 Italian Translation
 Turkish Translation
 
-<|endoftext|>
+
 
 You Weren't Meant to Have a Boss
 Want to start a startup?
@@ -33102,7 +33102,7 @@ reading drafts of this.
 French Translation
 Russian Translation
 
-<|endoftext|>
+
 
 A New Venture Animal
 March 2008, rev May 2013
@@ -33292,7 +33292,7 @@ for reading drafts of this.
 Comment
 on this essay.
 
-<|endoftext|>
+
 
 Trolls
 February 2008
@@ -33402,7 +33402,7 @@ quite impressive (anything becomes art if you do it well enough)
 but the median tag is just visual spam.
 Russian Translation
 
-<|endoftext|>
+
 
 Six Principles for Making New Things
 February 2008
@@ -33529,7 +33529,7 @@ So when you look at something like Reddit and think "I wish I could
 think of an idea like that," remember: ideas like that are all
 around you.  But you ignore them because they look wrong.
 
-<|endoftext|>
+
 
 Why to Move to a Startup Hub
 October 2007
@@ -33692,7 +33692,7 @@ Comment
 on this essay.
 Japanese Translation
 
-<|endoftext|>
+
 
 The Future of Web Startups
 Want to start a startup?
@@ -34045,7 +34045,7 @@ to Brian Oberkirch and Simon Willison for inviting me to
 speak, and the crew at Carson Systems for making everything run smoothly.
 Japanese Translation
 
-<|endoftext|>
+
 
 How to Do Philosophy
 September 2007
@@ -34656,7 +34656,7 @@ to Trevor Blackwell, Paul Buchheit, Jessica Livingston,
 Robert Morris, Mark Nitzberg, and Peter Norvig for reading drafts of this.
 French Translation
 
-<|endoftext|>
+
 
 News from the Front
 September 2007
@@ -34911,7 +34911,7 @@ McDonough, Peter Norvig, and Robert Morris for reading drafts of
 this.
 French Translation
 
-<|endoftext|>
+
 
 How Not to Die
 Want to start a startup?
@@ -35105,7 +35105,7 @@ give up.
 Japanese Translation
 Arabic Translation
 
-<|endoftext|>
+
 
 Holding a Program in One's Head
 August 2007
@@ -35308,7 +35308,7 @@ Portuguese Translation
 Bulgarian Translation
 Russian Translation
 
-<|endoftext|>
+
 
 Stuff
 July 2007
@@ -35443,7 +35443,7 @@ Slovak Translation
 Romanian Translation
 German Translation
 
-<|endoftext|>
+
 
 The Equity Equation
 July 2007
@@ -35566,7 +35566,7 @@ to Sam Altman, Trevor Blackwell, Paul Buchheit,
 Hutch Fishman, David Hornik, Paul Kedrosky, Jessica Livingston, Gary Sabot, and 
 Joshua Schachter for reading drafts of this.
 
-<|endoftext|>
+
 
 An Alternative Theory of Unions
 May 2007
@@ -35622,7 +35622,7 @@ whatever mysterious high-minded principles produced the high-paying
 union job.  We simply live in a time when the fast-growing companies
 overspend on different things.
 
-<|endoftext|>
+
 
 The Hacker's Guide to Investors
 April 2007
@@ -36262,7 +36262,7 @@ this, and to Kenneth King of ASES for inviting me to speak.
 Comment
 on this essay.
 
-<|endoftext|>
+
 
 Two Kinds of Judgement
 April 2007
@@ -36344,7 +36344,7 @@ Spanish Translation
 Russian Translation
 Arabic Translation
 
-<|endoftext|>
+
 
 Microsoft is Dead
 April 2007
@@ -36503,7 +36503,7 @@ Portuguese Translation
 Simplified Chinese Translation
 Korean Translation
 
-<|endoftext|>
+
 
 Why to Not Not Start a Startup
 Want to start a startup?
@@ -37130,7 +37130,7 @@ Russian Translation
 Japanese Translation
 Korean Translation
 
-<|endoftext|>
+
 
 Is It Worth Being Wise?
 February 2007
@@ -37574,7 +37574,7 @@ French Translation
 Russian Translation
 Russian Translation
 
-<|endoftext|>
+
 
 Learning from Founders
 January 2007
@@ -37662,7 +37662,7 @@ So despite the interview format, this is
 really a how-to book.  It is probably the single most valuable 
 book a startup founder could read.
 
-<|endoftext|>
+
 
 How Art Can Be Good
 December 2006
@@ -38068,7 +38068,7 @@ use the image at the top.
 Japanese Translation
 Simplified Chinese Translation
 
-<|endoftext|>
+
 
 The 18 Mistakes That Kill Startups
 Want to start a startup?
@@ -38716,7 +38716,7 @@ Romanian Translation
 Chinese Translation
 Arabic Translation
 
-<|endoftext|>
+
 
 A Student's Guide to Startups
 Want to start a startup?
@@ -39366,7 +39366,7 @@ on this essay.
 Chinese Translation
 Arabic Translation
 
-<|endoftext|>
+
 
 How to Present to Investors
 Want to start a startup?
@@ -39650,7 +39650,7 @@ Japanese Translation
 Russian Translation
 Image: Casey Muller: Trevor Blackwell at Rehearsal Day, summer 2006
 
-<|endoftext|>
+
 
 Copy What You Like
 July 2006
@@ -39754,7 +39754,7 @@ Romanian Translation
 Spanish Translation
 Russian Translation
 
-<|endoftext|>
+
 
 The Island Test
 July 2006
@@ -39829,7 +39829,7 @@ going to have to pry the plugs out of my cold, dead ears, however.
 Spanish Translation
 Japanese Translation
 
-<|endoftext|>
+
 
 The Power of the Marginal
 Want to start a startup?
@@ -40500,7 +40500,7 @@ Small and Chad Fowler for inviting me to speak.
 Japanese Translation
 Chinese Translation
 
-<|endoftext|>
+
 
 Why Startups Condense in America
 May 2006
@@ -41046,7 +41046,7 @@ Russian Translation
 Japanese Translation
 Arabic Translation
 
-<|endoftext|>
+
 
 How to Be Silicon Valley
 May 2006
@@ -41482,7 +41482,7 @@ If you liked this, you may also like
 Hackers & Painters
 .
 
-<|endoftext|>
+
 
 The Hardest Lessons for Startups to Learn
 April 2006
@@ -42024,7 +42024,7 @@ Russian Translation
 French Translation
 Japanese Translation
 
-<|endoftext|>
+
 
 See Randomness
 April 2006, rev August 2009
@@ -42095,7 +42095,7 @@ Or better still, the positive version:
 See randomness.
 Korean Translation
 
-<|endoftext|>
+
 
 Are Software Patents Evil?
 March 2006
@@ -42622,7 +42622,7 @@ my questions about patents, and to Ankur Pansari for inviting me
 to speak.
 Japanese Translation
 
-<|endoftext|>
+
 
 6,631,372
 March 2006, rev August 2009
@@ -42696,7 +42696,7 @@ For the fine prose of the original, see the provisional application
 of February 1998, back when we were still Viaweb and couldn't afford
 to pay lawyers to turn every "a lot of" into "considerable."
 
-<|endoftext|>
+
 
 Why YC
 March 2006, rev August 2009
@@ -42738,7 +42738,7 @@ and realized that with a tiny tweak he could make it run more
 efficiently.  In this case, the device is the world's economy, which
 fortunately happens to be open source.
 
-<|endoftext|>
+
 
 How to Do What You Love
 Want to start a startup?
@@ -43248,7 +43248,7 @@ Serbian Translation
 Greek Translation
 Vietnamese Translation
 
-<|endoftext|>
+
 
 Good and Bad Procrastination
 December 2005
@@ -43439,7 +43439,7 @@ Italian Translation
 Japanese Translation
 Spanish Translation
 
-<|endoftext|>
+
 
 Web 2.0
 Want to start a startup?
@@ -43874,7 +43874,7 @@ If you liked this, you may also like
 Hackers & Painters
 .
 
-<|endoftext|>
+
 
 How to Fund a Startup
 Want to start a startup?
@@ -44830,7 +44830,7 @@ Livingston, Sesha Pratap, Stan Reiss, Andy Singleton, Zak Stone,
 and Aaron Swartz for reading drafts of this.
 Arabic Translation
 
-<|endoftext|>
+
 
 The Venture Capital Squeeze
 November 2005
@@ -44996,7 +44996,7 @@ If you liked this, you may also like
 Hackers & Painters
 .
 
-<|endoftext|>
+
 
 Ideas for Startups
 Want to start a startup?
@@ -45428,7 +45428,7 @@ Traditional Chinese Translation
 Russian Translation
 Arabic Translation
 
-<|endoftext|>
+
 
 What I Did this Summer
 October 2005
@@ -45707,7 +45707,7 @@ Zak Stone, and Aaron Swartz for reading drafts of this.
 Romanian Translation
 Japanese Translation
 
-<|endoftext|>
+
 
 Inequality and Risk
 August 2005
@@ -46035,7 +46035,7 @@ If you liked this, you may also like
 Hackers & Painters
 .
 
-<|endoftext|>
+
 
 After the Ladder
 August 2005
@@ -46102,7 +46102,7 @@ stupid.
 Romanian Translation
 Japanese Translation
 
-<|endoftext|>
+
 
 What Business Can Learn from Open Source
 August 2005
@@ -46603,7 +46603,7 @@ Japanese Translation
 Spanish Translation
 Arabic Translation
 
-<|endoftext|>
+
 
 Hiring is Obsolete
 Want to start a startup?
@@ -47103,7 +47103,7 @@ If you liked this, you may also like
 Hackers & Painters
 .
 
-<|endoftext|>
+
 
 The Submarine
 April 2005
@@ -47454,7 +47454,7 @@ If you liked this, you may also like
 Hackers & Painters
 .
 
-<|endoftext|>
+
 
 Why Smart People Have Bad Ideas
 Want to start a startup?
@@ -47847,7 +47847,7 @@ If you liked this, you may also like
 Hackers & Painters
 .
 
-<|endoftext|>
+
 
 Return of the Mac
 March 2005
@@ -47963,7 +47963,7 @@ Italian Translation
 Russian Translation
 Chinese Translation
 
-<|endoftext|>
+
 
 Writing,  Briefly
 March 2005
@@ -48026,7 +48026,7 @@ Catalan Translation
 Danish Translation
 Arabic Translation
 
-<|endoftext|>
+
 
 Undergraduation
 Want to start a startup?
@@ -48421,7 +48421,7 @@ More Advice for Undergrads
 Joel Spolsky: Advice for Computer Science College Students
 Eric Raymond: How to Become a Hacker
 
-<|endoftext|>
+
 
 A Unified Theory of VC Suckage
 March 2005
@@ -48570,7 +48570,7 @@ their data in files too.
 Chinese Translation
 Japanese Translation
 
-<|endoftext|>
+
 
 How to Start a Startup
 Want to start a startup?
@@ -49501,7 +49501,7 @@ French Translation
 Japanese Translation
 Arabic Translation
 
-<|endoftext|>
+
 
 What You'll Wish You'd Known
 January 2005
@@ -49997,7 +49997,7 @@ Japanese Translation
 Russian Translation
 Georgian Translation
 
-<|endoftext|>
+
 
 Made in USA
 November 2004
@@ -50236,7 +50236,7 @@ for reading drafts of this.
 American Gothic
 The John Rain Books
 
-<|endoftext|>
+
 
 It's Charisma, Stupid
 November 2004, corrected June 2006
@@ -50422,7 +50422,7 @@ What Charisma Is
 Politics and the Art of Acting
 Japanese Translation
 
-<|endoftext|>
+
 
 Bradley's Ghost
 November 2004
@@ -50501,7 +50501,7 @@ If you liked this, you may also like
 Hackers & Painters
 .
 
-<|endoftext|>
+
 
 A Version 1.0
 October 2004
@@ -51131,7 +51131,7 @@ hand paying Milton the compliment of an extensive biography,
 and on the other writing of Paradise Lost that "none who read it
 ever wished it longer."
 
-<|endoftext|>
+
 
 What the Bubble Got Right
 September 2004
@@ -51573,7 +51573,7 @@ The Long Tail
 Russian Translation
 Japanese Translation
 
-<|endoftext|>
+
 
 The Age of the Essay
 September 2004
@@ -52150,7 +52150,7 @@ If you liked this, you may also like
 Hackers & Painters
 .
 
-<|endoftext|>
+
 
 The Python Paradox
 August 2004
@@ -52218,7 +52218,7 @@ If you liked this, you may also like
 Hackers & Painters
 .
 
-<|endoftext|>
+
 
 Great Hackers
 Want to start a startup?
@@ -52756,7 +52756,7 @@ If you liked this, you may also like
 Hackers & Painters
 .
 
-<|endoftext|>
+
 
 Mind the Gap
 May 2004
@@ -53440,7 +53440,7 @@ that their system can't be hacked, measure the degree to which it
 is.
 Spanish Translation
 
-<|endoftext|>
+
 
 How to Make Wealth
 Want to start a startup?
@@ -54533,7 +54533,7 @@ You'll find this essay and 14 others in
 Hackers & Painters
 .
 
-<|endoftext|>
+
 
 The Word "Hacker"
 April 2004
@@ -54784,7 +54784,7 @@ You'll find this essay and 14 others in
 Hackers & Painters
 .
 
-<|endoftext|>
+
 
 What You Can't Say
 January 2004
@@ -55440,7 +55440,7 @@ Mark Twain: Corn-pone Opinions
 A Blacklist for "Excuse Makers"
 What You Can't Say Will Hurt You
 
-<|endoftext|>
+
 
 Filters that Fight Back
 August 2003
@@ -55553,7 +55553,7 @@ Japanese Translation
 A Perl FFB
 Lycos DDoS@Home
 
-<|endoftext|>
+
 
 Hackers and Painters
 May 2003
@@ -56195,7 +56195,7 @@ You'll find this essay and 14 others in
 Hackers & Painters
 .
 
-<|endoftext|>
+
 
 If Lisp is So Great
 May 2003
@@ -56261,7 +56261,7 @@ Japanese Translation
 Romanian Translation
 Spanish Translation
 
-<|endoftext|>
+
 
 The Hundred-Year Language
 April 2003
@@ -56795,7 +56795,7 @@ You'll find this essay and 14 others in
 Hackers & Painters
 .
 
-<|endoftext|>
+
 
 Why Nerds are Unpopular
 February 2003
@@ -57365,7 +57365,7 @@ Buttons
 Portuguese Translation
 Spanish Translation
 
-<|endoftext|>
+
 
 Better Bayesian Filtering
 January 2003
@@ -57923,7 +57923,7 @@ Japanese Translation
 Chinese Translation
 Test of These Suggestions
 
-<|endoftext|>
+
 
 Design and Research
 January 2003
@@ -58209,7 +58209,7 @@ Taste for Makers
 Romanian Translation
 Spanish Translation
 
-<|endoftext|>
+
 
 A Plan for Spam
 Like to build things?
@@ -58928,7 +58928,7 @@ The Wrong Way
 LWN: Filter Comparison
 CRM114 gets 99.87%
 
-<|endoftext|>
+
 
 Revenge of the Nerds
 Want to start a startup?
@@ -59731,7 +59731,7 @@ You'll find this essay and 14 others in
 Hackers & Painters
 .
 
-<|endoftext|>
+
 
 Succinctness is Power
 May 2002
@@ -60068,7 +60068,7 @@ Icon
 J
 K
 
-<|endoftext|>
+
 
 What Languages Fix
 Kevin Kelleher suggested an interesting way to compare programming
@@ -60129,7 +60129,7 @@ Japanese Translation
 French Translation
 Portuguese Translation
 
-<|endoftext|>
+
 
 Taste for Makers
 February 2002
@@ -60717,7 +60717,7 @@ You'll find this essay and 14 others in
 Hackers & Painters
 .
 
-<|endoftext|>
+
 
 Why Arc Isn't Especially Object-Oriented
 There is a kind of mania for object-oriented programming at the moment, but
@@ -60782,7 +60782,7 @@ because it's thought to be a good idea.
 Rees Re: OO
 Spanish Translation
 
-<|endoftext|>
+
 
 What Made Lisp Different
 December 2001 (rev. May 2002)
@@ -60895,7 +60895,7 @@ axiomatize computation
 .
 Japanese Translation
 
-<|endoftext|>
+
 
 The Other Road Ahead
 September 2001
@@ -62080,7 +62080,7 @@ Japanese Translation
 Microsoft finally agrees
 Gates Email
 
-<|endoftext|>
+
 
 The Roots of Lisp
 May 2001
@@ -62140,7 +62140,7 @@ Japanese Translation
 Portuguese Translation
 Korean Translation
 
-<|endoftext|>
+
 
 Five Questions about Language Design
 May 2001
@@ -62456,7 +62456,7 @@ In everything else people do, reward is proportionate to risk.
 Why should language design be any different?
 Japanese Translation
 
-<|endoftext|>
+
 
 Being Popular
 May 2001
@@ -63202,7 +63202,7 @@ Five Questions about Language Design
 How to Become a Hacker
 Japanese Translation
 
-<|endoftext|>
+
 
 Java's Cover
 April 2001
@@ -63338,7 +63338,7 @@ Sun Internal Memo
 2005: BusinessWeek Agrees
 Japanese Translation
 
-<|endoftext|>
+
 
 Beating the Averages
 Want to start a startup?
@@ -63791,7 +63791,7 @@ You'll find this essay and 14 others in
 Hackers & Painters
 .
 
-<|endoftext|>
+
 
 Lisp for Web-Based Applications
 After a link to
@@ -63804,7 +63804,7 @@ here are some excerpts from a talk I gave in April 2001 at
 BBN Labs in Cambridge, MA.
 BBN Talk Excerpts (ASCII)
 
-<|endoftext|>
+
 
 Programming Bottom-Up
 1993
@@ -63923,7 +63923,7 @@ the program without understanding all your new utilities."
 To see why such statements are usually mistaken,
 see Section 4.8.
 
-<|endoftext|>
+
 
 This Year We Can End the Death Penalty in California
 November 2016
@@ -63951,12 +63951,12 @@ proposition, Proposition 66, whose goal is to make it
 easier to execute people. So yes on 62, no on 66.
 It's time.
 
-<|endoftext|>
+
 
 RSS
 Aaron Swartz created a scraped
 feed
 of the essays page.
 
-<|endoftext|>
+
 
